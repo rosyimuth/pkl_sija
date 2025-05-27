@@ -26,10 +26,10 @@
                         Kembali
                     </a>
 
-                    <a href="{{ route('pkl.edit', ['id' => $pkl->id]) }}"
+                    <!-- <a href="{{ route('pkl.edit', ['id' => $pkl->id]) }}"
                         class="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">
                         Edit
-                    </a>
+                    </a> -->
                 </div>
 
             </div>
